@@ -1,6 +1,6 @@
-payment_type,Revenue,Orders
-credit_card,15775450.54,76505
-boleto,4110920.74,19784
-voucher,435917.84,3866
-debit_card,257374.89,1528
-not_defined,0.0,3
+payment_type,Revenue,Orders,Revenue_Percentage
+credit_card,15775450.54,76505,76.66
+boleto,4110920.74,19784,19.98
+voucher,435917.84,3866,2.12
+debit_card,257374.89,1528,1.25
+not_defined,0.0,3,0.0
