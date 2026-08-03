@@ -6,7 +6,7 @@ A comprehensive data analytics project exploring customer behavior, sales perfor
 ## Dashboard Preview
 
 <p align="center">
-  <img src="images/dashboard.png" width="900">
+  <img src="images/Executive-Dashboard.png" width="900">
 </p>
 
 ---
